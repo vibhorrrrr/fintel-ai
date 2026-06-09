@@ -2,6 +2,7 @@
   "name": "fintel-ai",
   "version": "0.1.0",
   "private": true,
+  "description": "Institutional-grade AI investment research for retail investors.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
