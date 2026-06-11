@@ -74,7 +74,7 @@ The platform currently covers the NIFTY 50 universe with live NSE market data. R
 ### Installation
 
 ```bash
-git clone https://github.com/your-org/fintel-ai.git
+git clone https://github.com/vibhorrrrr/fintel-ai.git
 cd fintel-ai
 npm install
 ```
